@@ -1,16 +1,52 @@
-# React + Vite
+# Tejas Gowda M S - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website showcasing my projects, skills, and technical expertise.
 
-Currently, two official plugins are available:
+## View My Portfolio 👉 [Tejas Gowda M S](https://tejasgowdams.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Responsive Design** - Optimized for all devices (mobile, tablet, desktop)
+- **Smooth Scrolling Navigation** - Seamless single-page experience
+- **Interactive Contact Form** - EmailJS integration for direct communication
+- **Modern UI/UX** - Built with Tailwind CSS and React
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+### Frontend
+- **React** - UI library
+- **Vite** - Build tool and dev server
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Icon library
+
+### Additional Services
+- **EmailJS** - Contact form email delivery
+- **Vercel** - Deployment and hosting
+
+---
+
+## Sections
+
+1. **Home** - Introduction and social links
+2. **About** - Education background and personal motivations
+3. **Skills** - Technical skills organized by category
+4. **Projects** - Featured projects with descriptions
+5. **Contact** - Message form for inquiries
+
+---
+
+## Contact
+
+- **Email:** tejasgowda2604@gmail.com
+- **LinkedIn:** [linkedin.com/in/tejasgowdams](https://linkedin.com/in/tejasgowdams)
+- **GitHub:** [github.com/Tej-Gowda-26](https://github.com/Tej-Gowda-26)
+
+---
+
+## License
+
+This project is open source and available under the MIT License.
