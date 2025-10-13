@@ -360,7 +360,7 @@ export default function Portfolio() {
 
       <section id="projects" className="py-20 px-4 bg-black/20 backdrop-blur-sm">
         <div className="max-w-7xl mx-auto">
-          <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center bg-gradient-to-r from-cyan-400 to-blue-600 bg-clip-text text-transparent">
+          <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center bg-gradient-to-r from-cyan-400 to-blue-600 bg-clip-text text-transparent pb-2">
             Featured Projects
           </h2>
 
