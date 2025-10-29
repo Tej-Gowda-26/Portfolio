@@ -72,7 +72,7 @@ export default function Hero({ activeSection }) {
 
                 <div className="mb-12">
                     <a
-                        href="https://drive.google.com/file/d/1Z6ePWaIWnyNfNWImDlDbI59vHRVpIu1p/view?usp=drive_link"
+                        href="https://drive.google.com/file/d/1UQOV7PUY8PyUa8AQ6gwWi8EPlQNfhi8d/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white font-semibold px-8 py-4 rounded-full transition-all inline-flex items-center justify-center gap-3 mx-auto shadow-lg hover:shadow-cyan-500/50 hover:scale-105"
